@@ -1,4 +1,24 @@
+# USB HDD BOOT
 
+**USB HDD BOOT** là công cụ cứu hộ máy tính chuyên nghiệp, hỗ trợ tạo USB boot đa năng chuẩn UEFI/Legacy.  
+Phát triển bởi **Hoàng Đợi** - dễ sử dụng, linh hoạt, giao diện thuần Việt.
+
+## Tính năng nổi bật
+
+- Hỗ trợ boot trên cả UEFI và Legacy BIOS
+- Tích hợp Windows PE tối ưu
+- Giao diện tiếng Việt dễ sử dụng
+- Tích hợp nhiều công cụ cứu hộ như:
+  - Partition Wizard
+  - Acronis True Image
+  - Norton Ghost
+  - Active Boot Disk
+  - AntiVirus...
+- **Hỗ trợ tạo USB cài đặt hệ điều hành:**
+  - Windows XP
+  - Windows 7 / 8 / 8.1 / 10 / 11
+  - Windows Server (2003, 2008, 2012, 2016, 2019, 2022)
+ 
 # USB HDD BOOT - Hướng dẫn sử dụng
 
 USB HDD BOOT là công cụ hỗ trợ tạo USB boot cứu hộ máy tính chuẩn UEFI và Legacy với giao diện thuần Việt, dễ sử dụng.
@@ -10,7 +30,7 @@ USB HDD BOOT là công cụ hỗ trợ tạo USB boot cứu hộ máy tính chu�
 
 ## Bước 2: Tải và mở phần mềm
 
-- Tải phần mềm tại: [Trang tải về](https://usbhddboot.blogspot.com/p/tai-ve.html)
+- Tải phần mềm tại: [Trang tải về](https://github.com/usbhddboot/USB-HDD-BOOT/releases/)
 - Giải nén nếu là file `.zip`.
 
 ## Bước 3: Tạo USB BOOT
